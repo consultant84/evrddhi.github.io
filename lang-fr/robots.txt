@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://www.ats-in.com/lang-fr/sitemap.xml

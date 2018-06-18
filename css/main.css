@@ -1,3 +1,12 @@
+/*
+  Theme Name: Oxygen
+  Theme Uri: http://www.themeum.com
+  Author: Themeum
+  Author Uri: http://www.themeum.com
+  Description: Onepage Site Template
+  Version: 1.0
+*/
+
 /*************************
 *******Typography******
 **************************/
@@ -6,8 +15,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 24px;
-  color: #111;
-  background-color:      #ff9e5f;
+  color: #666;
+  background-color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -566,7 +575,7 @@ section {
 .member-info h4 {
   font-size: 14px;
   margin-bottom: 15px;
-  color: #000;
+  color: #999;
 }
 
 
